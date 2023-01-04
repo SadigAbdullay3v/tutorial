@@ -1,0 +1,11 @@
+Jdk yükləyin ( source hissədə link mövcutdur )
+Apache NetBeans IDE 15 yükəyin ( source hissədə link mövcutdur )
+
+javanın işləmə prinsipi: 
+
+myproject.java -> java uzantılı bu folder bizim yazdığımız və başa düştüyümüz kod bloklarından ibarətdir 
+netbeans javac (java compiler deməkdir) folderini cağıraraq yazdığımız kodu maşın dilinə convert edir.
+və uzantısı myproject.class olaraq dəyişir və bu artıq maşın dili "byte code"adlanır
+
+
+

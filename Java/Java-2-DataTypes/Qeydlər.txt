@@ -1,0 +1,25 @@
+Bəzi data type lara baxaq:
+
+int -> tam natural rəqəmləri özündə saxlayan data type dır (bölmə əməlyatında onluq kəsir şəkilində qalığı göstərmir).
+double -> tam və onluq kəsrləri hesablama əsasəndə bölmə imkanı verir.
+char -> yanlız tək bir simvol print etməyimizə kömək edir.
+string -> hərfdən daha çox yəni cümlə və ya söz yazmağımıza imkan verir.
+boolean -> özündə iki dəyər saxlayır true və false.
+
+qeyd : qoşa dırnaq ("") içində yazdığımız rəqəmlər simvollar belə string type'na aiddir.
+qeyd : tək dırnaq ('') əsasən char data type'n da tək bir simvol print etmək üçün isdifadə olunur.
+qeyd : sout + tab yazaraq  System.out.println(); yazmaq mümkündür.Əgər sout yazıb tab düyməsinə vursas və heçbir nəticə
+almasaz sout yazdıqdan sonra boşluq buraxmadan ctrl+space düyməsinə ard-arda klikləyin və enter düyməsinə basın
+
+qeyd: proqram run olduqda ilk işe düşən "public static void main(String[] args){}" yeni 13-cü sətrdir
+
+public static void main(String[] args){
+
+ //yazacağımız bütün kodlar bu şəkildə iki pəncərə yəni bunlar arasında olmalıdır "{}"
+
+}
+
+
+qeyd :  System.out.println("x="+a); - ""-dırnaq arasında olan bizim dırnağa verdiyimiz dəyərdir string type-dir rəqəm belə yazılsa 
+	string type olaraq qalır. a isə bizim əvvəlcədən type'na uyğun verdiyimiz dəyərdir. aralarında ki + işarəsi 
+	iki dəyəri bir-birinə yanaşı yazdırır.
